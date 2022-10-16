@@ -1,0 +1,37 @@
+[
+    {
+        "cafeName":"The Fat Seed",
+        "uploader": "theCoffeeAdd1ct",
+        "rating": 4,
+        "description": "The Fat Seed has long been one of my favourite coffee shops in Quezon City — and to this day, I still believe that it's underrated! What initially drew me to this cafe was its colourful murals and overall artsy interiors. Their excellent coffee, on the other hand, is what keeps me coming back here. From classic espresso-based drinks to cold brew and coffee cubes, their lineup of offerings makes it clear that The Fat Seed is run by people who are passionate about coffee.",
+        "cafeAddress": "U.P. Town Center, G/F Phase 2, Ayala Malls, Diliman, Quezon City, Metro Manila"
+    },
+    {
+        "cafeName":"Candid Coffee",
+        "uploader": "theCoffeeAdd1ct",
+        "rating": 4,
+        "description": "True to their name, Candid Coffee is known for their funny, candid product descriptions. To give you a better idea, here's the description for their Death Wish blend: \"Para kang sinampal sa mukha. Sobrang tapang na coffee, mas matapang pa sa lolo mo.\" (LOL!) While they're particularly favoured by home brewers for their freshly roasted beans, Candid Coffee was actually established in hopes of allowing any and all coffee lovers to experience third-wave coffee in a relatable manner. Drop by their store to grab their drinks to-go (their Vietnamese latte is a crowd fave!) and maybe even learn a thing or two about the bean-to-brew process!",
+        "cafeAddress": "Haven Bldg., Congressional Ave. Ext., Quezon City"
+    },
+    {
+        "cafeName":"Purple 7",
+        "uploader": "CoffeexBTSLover",
+        "rating": 4,
+        "description": "ARMY, this one's for you! A standout among other coffee shops in Quezon City, Purple 7 Cafe is a BTS-inspired cafe that's best known for its photoshoot-worthy interiors. Fans of the K-pop group flock to this coffee shop to snap photos with its life-sized cutouts of the members, stunning mural, and even more BTS merch.",
+        "cafeAddress": "2/F NBC Square, Congressional Ave., Project 8, Quezon City"
+    },
+    {
+        "cafeName":"Goffa",
+        "uploader": "kopiEnthus1ast",
+        "rating": 5,
+        "description": "One of the Tomas Morato area's hidden gems, Goffa is Purple Oven's sister cafe. So, the next time you drop by Purple Oven's Rallos branch for pastries, be sure to make a pit stop just a few steps away — Goffa's coffee is definitely worth trying out. In addition, they also offer granola bowls, sandwiches, wraps, and desserts, too! To ensure everyone's safety, the cafe only allows two customers to enter at one time. This way, you can feel totally at ease when picking up your orders!",
+        "cafeAddress": "2/F F7 Bldg., 49 Scout Rallos, Quezon City"
+    },
+    {
+        "cafeName":"Chapter",
+        "uploader": "kapeKapeKAPE",
+        "rating": 5,
+        "description": "For as long as I can remember, Maginhawa Street has been known for its eclectic, must-try food and drink scene. In the midst of quaint food stalls and budget-friendly cafes, you'll find Chapter Coffee — an under-the-radar cafe and roastery that serves speciality coffee with cool, minimalist interiors to match. As a QC resident myself, I regret not discovering this coffee shop years ago!",
+        "cafeAddress": "143 Maginhawa St., Quezon City"
+    }
+]
