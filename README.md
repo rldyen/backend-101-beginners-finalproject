@@ -1,4 +1,5 @@
 # Final Project for Bayan Academy Online Training on Back-End Web Development 101
+A Project of Bayan Academy's One Plan for Labor Alignment
 
 ## Tech Stack
 MongoDB, ExpressJS, NodeJS, Tailwind CSS
